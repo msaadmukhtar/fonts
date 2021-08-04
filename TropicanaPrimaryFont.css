@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'TropicanaPrimaryFont';
-    src: url('fonts/TropicanaPrimaryFont.eot');
-    src: url('fonts/TropicanaPrimaryFont.eot') format('embedded-opentype'),
-         url('fonts/TropicanaPrimaryFont.woff2') format('woff2'),
-         url('fonts/TropicanaPrimaryFont.woff') format('woff'),
-         url('fonts/TropicanaPrimaryFont.ttf') format('truetype'),
-         url('fonts/TropicanaPrimaryFont.svg#TropicanaPrimaryFont') format('svg');
+    src: url('TropicanaPrimaryFont.eot');
+    src: url('TropicanaPrimaryFont.eot') format('embedded-opentype'),
+         url('TropicanaPrimaryFont.woff2') format('woff2'),
+         url('TropicanaPrimaryFont.woff') format('woff'),
+         url('TropicanaPrimaryFont.ttf') format('truetype'),
+         url('TropicanaPrimaryFont.svg#TropicanaPrimaryFont') format('svg');
 }
