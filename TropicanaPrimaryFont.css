@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'TropicanaPrimaryFont';
-    src: url('TropicanaPrimaryFont.eot');
-    src: url('TropicanaPrimaryFont.eot') format('embedded-opentype'),
-         url('TropicanaPrimaryFont.woff2') format('woff2'),
-         url('TropicanaPrimaryFont.woff') format('woff'),
-         url('TropicanaPrimaryFont.ttf') format('truetype'),
-         url('TropicanaPrimaryFont.svg#TropicanaPrimaryFont') format('svg');
+    src: url('https://raw.githubusercontent.com/msaadmukhtar/fonts/fonts/TropicanaPrimaryFont.eot');
+    src: url('https://raw.githubusercontent.com/msaadmukhtar/fonts/fonts/TropicanaPrimaryFont.eot') format('embedded-opentype'),
+         url('https://raw.githubusercontent.com/msaadmukhtar/fonts/fonts/TropicanaPrimaryFont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/msaadmukhtar/fonts/fonts/TropicanaPrimaryFont.woff') format('woff'),
+         url('https://raw.githubusercontent.com/msaadmukhtar/fonts/fonts/TropicanaPrimaryFont.ttf') format('truetype'),
+         url('https://raw.githubusercontent.com/msaadmukhtar/fonts/fonts/TropicanaPrimaryFont.svg#TropicanaPrimaryFont') format('svg');
 }
